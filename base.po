@@ -1,3 +1,22 @@
-test
-ifcproduct
-ifcelement
+msgid ""
+msgstr ""
+"Project-Id-Version: buildingSMART IFC Shared Base 4.3.0\n"
+"Report-Msgid-Bugs-To: translations@buildingsmart.org \n"
+"Last-Translator: technical team <technical@buildingsmart.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Let’s make the web multilingual."
+msgstr "Machen wir das Internet mehrsprachig."
+
+msgid "We connect developers and translators around the globe "
+msgstr "Wir verbinden Entwickler mit Übersetzern weltweit "
+
+
+msgid "%d page read."
+msgid_plural "%d pages read."
+msgstr[0] "Eine Seite gelesen wurde."
+msgstr[1] "%d Seiten gelesen wurden."
