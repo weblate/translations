@@ -1,98 +1,98 @@
-location,source,target,id,fuzzy,context,translator_comments,developer_comments
-,Action Request,,,,IfcActionRequest,,
-,Actor,,,,IfcActor,,
-,Actor Role,,,,IfcActorRole,,
-,Actuator,,,,IfcActuator,,
-,Actuator Type,,,,IfcActuatorType,,
-,Address,,,,IfcAddress,,
-,Advanced Brep,,,,IfcAdvancedBrep,,
-,Advanced Brep With Voids,,,,IfcAdvancedBrepWithVoids,,
-,Advanced Face,,,,IfcAdvancedFace,,
-,Air Terminal,,,,IfcAirTerminal,,
-,Air Terminal Box,,,,IfcAirTerminalBox,,
-,Air Terminal Box Type,,,,IfcAirTerminalBoxType,,
-,Air Terminal Type,,,,IfcAirTerminalType,,
-,Air To Air Heat Recovery,,,,IfcAirToAirHeatRecovery,,
-,Air To Air Heat Recovery Type,,,,IfcAirToAirHeatRecoveryType,,
-,Alarm,,,,IfcAlarm,,
-,Alarm Type,,,,IfcAlarmType,,
-,Building,,,,IfcBuilding,,
-,Building Element,,,,IfcBuildingElement,,
-,Building Element Part,,,,IfcBuildingElementPart,,
-,Building Element Part Type,,,,IfcBuildingElementPartType,,
-,Building Element Proxy,,,,IfcBuildingElementProxy,,
-,Building Element Proxy Type,,,,IfcBuildingElementProxyType,,
-,Building Element Type,,,,IfcBuildingElementType,,
-,Building Storey,,,,IfcBuildingStorey,,
-,Curve,,,,IfcCurve,,
-,Curve Bounded Plane,,,,IfcCurveBoundedPlane,,
-,Curve Bounded Surface,,,,IfcCurveBoundedSurface,,
-,Curve Style,,,,IfcCurveStyle,,
-,Curve Style Font,,,,IfcCurveStyleFont,,
-,Mechanical Fastener,,,,IfcMechanicalFastener,,
-,Mechanical Fastener Type,,,,IfcMechanicalFastenerType,,
-,Medical Device,,,,IfcMedicalDevice,,
-,Medical Device Type,,,,IfcMedicalDeviceType,,
-,Member,,,,IfcMember,,
-,Member Standard Case,,,,IfcMemberStandardCase,,
-,Member Type,,,,IfcMemberType,,
-,Metric,,,,IfcMetric,,
-,Object,,,,IfcObject,,
-,Object Definition,,,,IfcObjectDefinition,,
-,Objective,,,,IfcObjective,,
-,Object Placement,,,,IfcObjectPlacement,,
-,Occupant,,,,IfcOccupant,,
-,Offset Curve 2D,,,,IfcOffsetCurve2D,,
-,Offset Curve 3D,,,,IfcOffsetCurve3D,,
-,Opening Element,,,,IfcOpeningElement,,
-,Opening Standard Case,,,,IfcOpeningStandardCase,,
-,Open Shell,,,,IfcOpenShell,,
-,Organization,,,,IfcOrganization,,
-,Organization Relationship,,,,IfcOrganizationRelationship,,
-,Oriented Edge,,,,IfcOrientedEdge,,
-,Outer Boundary Curve,,,,IfcOuterBoundaryCurve,,
-,Relationship,,,,IfcRelationship,,
-,Relationship Connects,,,,IfcRelConnects,,
-,Relationship Connects Elements,,,,IfcRelConnectsElements,,
-,Relationship Connects Path Elements,,,,IfcRelConnectsPathElements,,
-,Relationship Connects Ports,,,,IfcRelConnectsPorts,,
-,Relationship Connects Port To Element,,,,IfcRelConnectsPortToElement,,
-,Relationship Connects Structural Activity,,,,IfcRelConnectsStructuralActivity,,
-,Relationship Connects Structural Member,,,,IfcRelConnectsStructuralMember,,
-,Relationship Connects With Eccentricity,,,,IfcRelConnectsWithEccentricity,,
-,Relationship Connects With Realizing Elements,,,,IfcRelConnectsWithRealizingElements,,
-,Relationship Contained In Spatial Structure,,,,IfcRelContainedInSpatialStructure,,
-,Relationship Covers Building Elements,,,,IfcRelCoversBldgElements,,
-,Relationship Covers Spaces,,,,IfcRelCoversSpaces,,
-,Relationship Declares,,,,IfcRelDeclares,,
-,Relationship Decomposes,,,,IfcRelDecomposes,,
-,Table,,,,IfcTable,,
-,Table Column,,,,IfcTableColumn,,
-,Table Row,,,,IfcTableRow,,
-,Tank,,,,IfcTank,,
-,Tank Type,,,,IfcTankType,,
-,Task,,,,IfcTask,,
-,Task Time,,,,IfcTaskTime,,
-,Task Time Recurring,,,,IfcTaskTimeRecurring,,
-,Task Type,,,,IfcTaskType,,
-,Telecom Address,,,,IfcTelecomAddress,,
-,Voiding Feature,,,,IfcVoidingFeature,,
-,Wall,,,,IfcWall,,
-,Wall Elemented Case,,,,IfcWallElementedCase,,
-,Wall Standard Case,,,,IfcWallStandardCase,,
-,Wall Type,,,,IfcWallType,,
-,Waste Terminal,,,,IfcWasteTerminal,,
-,Waste Terminal Type,,,,IfcWasteTerminalType,,
-,Window,,,,IfcWindow,,
-,Window Lining Properties,,,,IfcWindowLiningProperties,,
-,Window Panel Properties,,,,IfcWindowPanelProperties,,
-,Window Standard Case,,,,IfcWindowStandardCase,,
-,Window Style,,,,IfcWindowStyle,,
-,Window Type,,,,IfcWindowType,,
-,Work Calendar,,,,IfcWorkCalendar,,
-,Work Control,,,,IfcWorkControl,,
-,Work Plan,,,,IfcWorkPlan,,
-,Work Schedule,,,,IfcWorkSchedule,,
-,Work Time,,,,IfcWorkTime,,
-,Zone,,,,IfcZone,,
-,Z Shape Profile Definition,,,,IfcZShapeProfileDef,,
+"location","source","target","id","fuzzy","context","translator_comments","developer_comments"
+"","Action Request","Action Request","","False","IfcActionRequest","",""
+"","Actor","Actor","","False","IfcActor","",""
+"","Actor Role","Actor Role","","False","IfcActorRole","",""
+"","Actuator","Actuator","","False","IfcActuator","",""
+"","Actuator Type","Actuator Type","","False","IfcActuatorType","",""
+"","Address","Address","","False","IfcAddress","",""
+"","Advanced Brep","Advanced Boundary Representation","","False","IfcAdvancedBrep","",""
+"","Advanced Brep With Voids","Advanced Boundary Representation with Voids","","False","IfcAdvancedBrepWithVoids","",""
+"","Advanced Face","Advanced Face","","False","IfcAdvancedFace","",""
+"","Air Terminal","Air Terminal","","False","IfcAirTerminal","",""
+"","Air Terminal Box","Air Terminal Box","","False","IfcAirTerminalBox","",""
+"","Air Terminal Box Type","Air Terminal Box Type","","False","IfcAirTerminalBoxType","",""
+"","Air Terminal Type","Air Terminal Type","","False","IfcAirTerminalType","",""
+"","Air To Air Heat Recovery","Air To Air Heat Recovery","","False","IfcAirToAirHeatRecovery","",""
+"","Air To Air Heat Recovery Type","Air To Air Heat Recovery Type","","False","IfcAirToAirHeatRecoveryType","",""
+"","Alarm","Alarm","","False","IfcAlarm","",""
+"","Alarm Type","Alarm Type","","False","IfcAlarmType","",""
+"","Building","Building","","False","IfcBuilding","",""
+"","Building Element","Building Element","","False","IfcBuildingElement","",""
+"","Building Element Part","Building Element Part","","False","IfcBuildingElementPart","",""
+"","Building Element Part Type","Building Element Part Type","","False","IfcBuildingElementPartType","",""
+"","Building Element Proxy","Building Element Proxy","","False","IfcBuildingElementProxy","",""
+"","Building Element Proxy Type","Building Element Proxy Type","","False","IfcBuildingElementProxyType","",""
+"","Building Element Type","Building Element Type","","False","IfcBuildingElementType","",""
+"","Building Storey","Building Storey","","False","IfcBuildingStorey","",""
+"","Curve","Curve","","False","IfcCurve","",""
+"","Curve Bounded Plane","Curve Bounded Plane","","False","IfcCurveBoundedPlane","",""
+"","Curve Bounded Surface","Curve Bounded Surface","","False","IfcCurveBoundedSurface","",""
+"","Curve Style","","","","IfcCurveStyle","",""
+"","Curve Style Font","","","","IfcCurveStyleFont","",""
+"","Mechanical Fastener","","","","IfcMechanicalFastener","",""
+"","Mechanical Fastener Type","","","","IfcMechanicalFastenerType","",""
+"","Medical Device","","","","IfcMedicalDevice","",""
+"","Medical Device Type","","","","IfcMedicalDeviceType","",""
+"","Member","","","","IfcMember","",""
+"","Member Standard Case","","","","IfcMemberStandardCase","",""
+"","Member Type","","","","IfcMemberType","",""
+"","Metric","","","","IfcMetric","",""
+"","Object","","","","IfcObject","",""
+"","Object Definition","","","","IfcObjectDefinition","",""
+"","Objective","","","","IfcObjective","",""
+"","Object Placement","","","","IfcObjectPlacement","",""
+"","Occupant","","","","IfcOccupant","",""
+"","Offset Curve 2D","","","","IfcOffsetCurve2D","",""
+"","Offset Curve 3D","","","","IfcOffsetCurve3D","",""
+"","Opening Element","","","","IfcOpeningElement","",""
+"","Opening Standard Case","","","","IfcOpeningStandardCase","",""
+"","Open Shell","","","","IfcOpenShell","",""
+"","Organization","","","","IfcOrganization","",""
+"","Organization Relationship","","","","IfcOrganizationRelationship","",""
+"","Oriented Edge","","","","IfcOrientedEdge","",""
+"","Outer Boundary Curve","","","","IfcOuterBoundaryCurve","",""
+"","Relationship","","","","IfcRelationship","",""
+"","Relationship Connects","","","","IfcRelConnects","",""
+"","Relationship Connects Elements","","","","IfcRelConnectsElements","",""
+"","Relationship Connects Path Elements","","","","IfcRelConnectsPathElements","",""
+"","Relationship Connects Ports","","","","IfcRelConnectsPorts","",""
+"","Relationship Connects Port To Element","","","","IfcRelConnectsPortToElement","",""
+"","Relationship Connects Structural Activity","","","","IfcRelConnectsStructuralActivity","",""
+"","Relationship Connects Structural Member","","","","IfcRelConnectsStructuralMember","",""
+"","Relationship Connects With Eccentricity","","","","IfcRelConnectsWithEccentricity","",""
+"","Relationship Connects With Realizing Elements","","","","IfcRelConnectsWithRealizingElements","",""
+"","Relationship Contained In Spatial Structure","","","","IfcRelContainedInSpatialStructure","",""
+"","Relationship Covers Building Elements","","","","IfcRelCoversBldgElements","",""
+"","Relationship Covers Spaces","","","","IfcRelCoversSpaces","",""
+"","Relationship Declares","","","","IfcRelDeclares","",""
+"","Relationship Decomposes","","","","IfcRelDecomposes","",""
+"","Table","","","","IfcTable","",""
+"","Table Column","","","","IfcTableColumn","",""
+"","Table Row","","","","IfcTableRow","",""
+"","Tank","","","","IfcTank","",""
+"","Tank Type","","","","IfcTankType","",""
+"","Task","","","","IfcTask","",""
+"","Task Time","","","","IfcTaskTime","",""
+"","Task Time Recurring","","","","IfcTaskTimeRecurring","",""
+"","Task Type","","","","IfcTaskType","",""
+"","Telecom Address","","","","IfcTelecomAddress","",""
+"","Voiding Feature","","","","IfcVoidingFeature","",""
+"","Wall","","","","IfcWall","",""
+"","Wall Elemented Case","","","","IfcWallElementedCase","",""
+"","Wall Standard Case","","","","IfcWallStandardCase","",""
+"","Wall Type","","","","IfcWallType","",""
+"","Waste Terminal","","","","IfcWasteTerminal","",""
+"","Waste Terminal Type","","","","IfcWasteTerminalType","",""
+"","Window","","","","IfcWindow","",""
+"","Window Lining Properties","","","","IfcWindowLiningProperties","",""
+"","Window Panel Properties","","","","IfcWindowPanelProperties","",""
+"","Window Standard Case","","","","IfcWindowStandardCase","",""
+"","Window Style","","","","IfcWindowStyle","",""
+"","Window Type","","","","IfcWindowType","",""
+"","Work Calendar","","","","IfcWorkCalendar","",""
+"","Work Control","","","","IfcWorkControl","",""
+"","Work Plan","","","","IfcWorkPlan","",""
+"","Work Schedule","","","","IfcWorkSchedule","",""
+"","Work Time","","","","IfcWorkTime","",""
+"","Zone","","","","IfcZone","",""
+"","Z Shape Profile Definition","","","","IfcZShapeProfileDef","",""
