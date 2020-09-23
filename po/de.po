@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-24 07:40+0000\n"
+"Last-Translator: Léon van Berlo <github@berlotti.com>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/ifc/ifc/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.3-dev\n"
+
+#:HarmonisedUMLmodel.xml:35662
+msgid "IfcFastener"
+msgstr "Befestigungsmittel"
+
+msgid "IfcFastener_DEFINITION"
+msgstr ""
+"Darstellungen von Befestigungsteilen, die als Verbindungselemente zur "
+"Verbindung oder Verbindung von Elementen mit anderen Elementen dienen. "
+"Ausgenommen sind mechanische Verbindungselemente, die von einer separaten "
+"Einheit modelliert werden (IfcMechanicalFastener)."
